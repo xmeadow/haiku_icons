@@ -2,6 +2,7 @@
 
 ![dictionary](https://github.com/xmeadow/haiku_icons/blob/master/dictionary/dictionary_64.png)
 ![autoraise](https://github.com/xmeadow/haiku_icons/blob/master/autoraise/icon_autoraise_64.png)
+![autoraise](https://github.com/xmeadow/haiku_icons/blob/master/autoraise2/icon_autoraise2_64.png)
 ![TNT](https://github.com/xmeadow/haiku_icons/blob/master/TNT/tnt_64.png)
 
 This repository should provide Icons in the style and file-formats of [haiku](https://github.com/haiku/haiku "haiku").
